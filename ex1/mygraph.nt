@@ -1,0 +1,16 @@
+<http://example.org/ns/Samuel_Barber> <http://example.org/props/DateOfDeath> "1981-01-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://example.org/ns/46/UBO3784622> <http://example.org/props/releaseDate> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://example.org/ns/2059210/data_sounds_http___archive_org_download_kevnkinneyband2003_09_22_flac16_kevnkinneyband2003_09_22t09_mp3> <http://example.org/props/title> "90 MPH In A 30 Mile Zone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/ns/46/UBO3784622> <http://example.org/props/Composer> <http://example.org/ns/I_Teatro_degli_Orrori> .
+<http://example.org/ns/46/UBO3784622> <http://example.org/props/title> "A sangue freddo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/ns/9200369/webclient_DeliveryManager_pid_8382704_custom_att_2_simple_viewer> <http://example.org/props/title> "Adagio for strings op 11 Konzert für Violine und Orchester op 14"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/ns/9200369/webclient_DeliveryManager_pid_8382704_custom_att_2_simple_viewer> <http://example.org/props/publisher> <http://example.org/ns/Sony_Music_Entertainment> .
+<http://example.org/ns/9200369/webclient_DeliveryManager_pid_8382704_custom_att_2_simple_viewer> <http://example.org/props/Composer> <http://example.org/ns/Samuel_Barber> .
+<http://example.org/ns/446_MIL0857665> <http://example.org/props/title> "Turandot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/ns/Samuel_Barber> <http://example.org/props/DateOfBirth> "1910-03-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://example.org/ns/446_MIL0857665> <http://example.org/props/Composer> <http://example.org/ns/Giacomo_Puccini> .
+<http://example.org/ns/496_UBO3950811> <http://example.org/props/Composer> <http://example.org/ns/Nino_Rota> .
+<http://example.org/ns/2059210/data_sounds_http___archive_org_download_kevnkinneyband2003_09_22_flac16_kevnkinneyband2003_09_22t09_mp3> <http://example.org/props/Composer> <http://example.org/ns/Kevn_Kinney> .
+<http://example.org/ns/496_UBO3950811> <http://example.org/props/title> "Giulietta degli spiriti "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/ns/46/UBO3784622> <http://example.org/props/publisher> <http://example.org/ns/Universal_Music> .
+
